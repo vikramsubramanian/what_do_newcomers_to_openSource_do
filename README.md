@@ -1,4 +1,6 @@
-What should my first open source contribution on GitHub be?
+## What should my first open source contribution on GitHub be?
 
-## ABSTRACT
+#### Scripts used to mine data: [here](https://github.com/vikramsubramanian/first_time_OSS_contributors)
+
+### ABSTRACT
 The popularity of Open Source Software (OSS) is at an all-time high and for it to remain so it is vital for new developers to continually join and contribute to the OSS community. In this paper, to better understand the first time contributor, we study the characteristics of the first pull request (PR) made to an OSS project by developers. We mine GitHub for the first OSS PR of 3501 developers to study certain characteristics of PRs like size and nature of change. We find that PRs were a mixture of trivial and non-trivial changes and a large portion didn't even involve writing code. 50\% of all changes were bug fixes and particularly semantic bug fixes such as adding missing cases. 39\% of changes added new features and functionality and almost 80\% of these were small changes with a median of 35 lines changed. 14\% of all changes were changes to documentation while only 16\% of changes to code were accompanied by relevant documentation. By using the data presented, Project leaders and OSS moderators can optimize their projects to attract more developers (particularly first-timers). They can decide which tasks can be delegated to beginners. First timers can learn from other first timers and understand what they should focus on- contributions that are popular and the most likely to be accepted. Those looking to pick up new skills can get some direction on which skill will help them the best.
