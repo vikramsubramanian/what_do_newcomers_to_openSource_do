@@ -1,4 +1,4 @@
-## What should my first open source contribution on GitHub be?
+## Analyzing first contributions on GitHub: what do newcomers do
 
 #### Scripts used to mine data and related work: [here](https://github.com/vikramsubramanian/first_time_OSS_contributors)
 
